@@ -5,9 +5,9 @@ from azure.mgmt.containerregistry.models import Sku
 subscription_id = 'b1d7df6c-a5d4-44a8-83c9-07b17ba2b5cb'
 resource_group_name = 'yjh'
 registry_name = 'yjhmonitoringregistry'
-client_id ='871609ca-add3-432f-bca3-e9584d20c6c2'
+client_id ='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 tenant_id = '20f62116-4d0c-44ac-8a45-390ca2765601'
-client_secret = 'zMC8Q~gX_je8PdDwVxj71i9audWuRZllcUbTkbNJ'
+client_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 credentials = ServicePrincipalCredentials(
     client_id=client_id,
